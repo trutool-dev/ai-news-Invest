@@ -1,0 +1,6 @@
+{
+  "name": "AI Weekly News and Market Hub",
+  "description": "A weekly overview of the most relevant Artificial Intelligence news, including a dedicated section for AI-focused investments and stock market performance, designed in a clean, fresh, Apple-inspired layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
